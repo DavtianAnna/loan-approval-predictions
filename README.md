@@ -12,13 +12,13 @@ This is a **binary classification** task where the model is expected to estimate
 ```
 
 project-root/
-├── 📄 task.ipynb # Main notebook: full ML pipeline from preprocessing to submission.
-├── 📊 train.csv # Training dataset with features and target ('loan_status').
-├── 🧪 test.csv # Test dataset: features for prediction.
-├── 📝 sample_submission.csv # Template for Kaggle submission.
-├── 🚀 sub.csv # Submission file from Logistic Regression model.
-├── 🚀 sub1.csv # Submission file from XGBoost model.
-└── 📜 README.md # Project documentation.
+├── 📄 task.ipynb              # Main notebook: full ML pipeline from preprocessing to submission.
+├── 📊 train.csv               # Training dataset with features and target ('loan_status').
+├── 🧪 test.csv                # Test dataset: features for prediction.
+├── 📝 sample_submission.csv   # Template for Kaggle submission.
+├── 🚀 sub.csv                 # Submission file from Logistic Regression model.
+├── 🚀 sub1.csv                # Submission file from XGBoost model.
+└── 📜 README.md               # Project documentation.
 
 ```
 ---
