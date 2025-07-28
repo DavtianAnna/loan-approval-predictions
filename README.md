@@ -20,7 +20,7 @@ project-root/
 ├── 🚀 sub1.csv # Submission file from XGBoost model.
 └── 📜 README.md # Project documentation.
 
-
+```
 ---
 
 ## 💻 Technologies Used
